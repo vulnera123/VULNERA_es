@@ -45,13 +45,13 @@ El trabajo se organiza con **Git** y **GitHub** (código y documentación), **Ji
 
 ## 📅 Planificación
 
-El proyecto sigue seis fases: planificación inicial, análisis y diseño, desarrollo, pruebas, despliegue y mantenimiento. El trabajo se reparte en tareas semanales y el detalle de cada una está en Jira.
+El proyecto sigue seis fases: planificación inicial, análisis y diseño, desarrollo, pruebas, despliegue y mantenimiento. El trabajo se intentará repartir en tareas semanales y el detalle de cada una está en Jira, comento que las tareas se intentarán repartir semanalmente porque quizás una semana realice dos tareas u otra semana no haga ninguna conforme vaya avanzando el proyecto.
 
-- 🚩 **v0.1 (MVP):** CLI con tres checks, a mediados de diciembre de 2026.
-- 🚩 **v0.2:** motor completo con tests, a finales de enero de 2027.
-- 🚩 **v0.3:** API con login y base de datos, a principios de marzo.
-- 🚩 **v0.4:** panel web con selector de idioma, a finales de marzo.
-- 🏁 **v1.0:** despliegue completo en AWS, a mediados de mayo.
+- 🚩 **v0.1 (MVP):** CLI con tres checks.
+- 🚩 **v0.2:** motor completo con tests.
+- 🚩 **v0.3:** API con login y base de datos.
+- 🚩 **v0.4:** panel web con selector de idioma.
+- 🏁 **v1.0:** despliegue completo en AWS.
 
 ## 🚧 Estado actual del proyecto
 
