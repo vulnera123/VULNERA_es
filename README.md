@@ -1,6 +1,4 @@
-# 🛡️ Vulnera
-
-![Vulnera](docs/assets/vulnera_logo.png)
+# 🛡️ VULNERA
 
 ![Estado](https://img.shields.io/badge/estado-en%20desarrollo-E8433F?labelColor=0D0D0F)
 ![Python](https://img.shields.io/badge/Python-3.12-3776AB?logo=python&logoColor=white&labelColor=0D0D0F)
